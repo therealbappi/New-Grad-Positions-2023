@@ -124,7 +124,7 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 | [Dell Technologies](https://dell.wd1.myworkdayjobs.com/ExternalNonPublic/job/Round-Rock-Texas-United-States/Software-Engineer_R206821) | US Remote | Software Engineer |
 | [Bank of America](https://campus.bankofamerica.com/careers/global_technology_analyst_program__2023.html#:~:text=pursuing%20a%20BA/BS%20degree) | USA | Software Engineer (New Grad)|
 | [Duolingo](https://boards.greenhouse.io/duolingo/jobs/6302219002) | Pittsburgh, PA | Software Engineer I, New Graduate |
-| [Delta Airlines](https://delta.avature.net/careers/SearchJobs/associate%20software%20engineer) | Atlanta | Associate SWE |
+| [D Delta Airlines](https://delta.avature.net/careers/SearchJobs/associate%20software%20engineer) | Atlanta | Associate SWE |
 | [RVO Health](https://www.redventures.com/careers/apply/4518163) | Charlotte, NC | 2023 Software Engineer |
-| [Vecna](https://vecnahealthcare.com/careers/?gnk=job&gni=8a7885a882ae53b00182e5e79a5c0889&gns=LinkedIn%2BLimited) | Burlington, MA | New Grad - Software Engineer | 
+| [D Vecna](https://vecnahealthcare.com/careers/?gnk=job&gni=8a7885a882ae53b00182e5e79a5c0889&gns=LinkedIn%2BLimited) | Burlington, MA | New Grad - Software Engineer | 
 | [Western Digital](https://jobs.smartrecruiters.com/WesternDigital/743999839535273-new-college-grad-engineer-software-engineering?trid=55fe2b03-11c1-41e1-ab70-337c7fd98d48) | Rochester, MN | New College Grad Engineer, Software Engineering |
